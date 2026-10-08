@@ -4,7 +4,7 @@ Pense no chatbot como um consultor disponível 24 horas. Você descreve sua dúv
 Na prática
 Vamos começar a jornada conversando com um chatbot para descobrir uma área de tecnologia que combine com seu perfil.
 
-Use o prompt abaixo no ChatGPT (ou em qualquer outro chatbot da sua preferência):
+Use o prompt abaixo no Gemini (ou em qualquer outro chatbot da sua preferência):
 //
 Quero entrar na área de tecnologia, estou em transição de carreira e tenho 1h por dia para estudar.
 Meu background é em [sua área de origem, ex.: Psicologia].
@@ -19,3 +19,38 @@ Use linguagem simples, como se fosse uma conversa com um amigo.
 //
 
 Ao final, copie a resposta para um bloco de notas. A área escolhida e os cinco tópicos iniciais vão ser o ponto de partida da próxima prática.
+
+Resposta do modelo:
+//
+O seu histórico em segurança pública é um diferencial gigante, não uma desvantagem. Quem vem dessa área já tem habilidades que a tecnologia valoriza demais e não consegue ensinar facilmente em curso: disciplina, atenção extrema aos detalhes, gerenciamento de risco, gestão de crise e uma postura analítica e investigativa para resolver problemas.
+
+Como você tem 1 hora por dia, o segredo é focar em uma rotina sustentável e constante. Aqui está o direcionamento perfeito para o seu perfil:
+
+Três áreas que combinam com seu perfil (em ordem de afinidade)
+
+Cibersegurança (Segurança da Informação): É o caminho mais natural. Você troca a proteção física pela proteção digital. Sua mentalidade de prevenção de riscos, mitigação de ameaças e resposta a incidentes se traduz diretamente para a defesa de redes e sistemas.
+
+Análise de Dados (Business Intelligence): Ideal se você gosta de investigar padrões, cruzar informações e gerar relatórios para tomada de decisão. O trabalho de análise de dados é muito parecido com a inteligência de segurança: coletar evidências, analisar o cenário e tirar conclusões lógicas.
+
+DevOps / Infraestrutura de Redes: Essa área cuida de manter os sistemas no ar, protegidos e funcionando sem quedas. Exige muita disciplina, processos bem estruturados e capacidade de agir rápido quando algo dá errado.
+
+Sugestão final de qual escolher e o porquê
+
+Escolha Cibersegurança.
+
+A razão é simples: o mercado de tecnologia está desesperado por profissionais de cibersegurança e o seu background anterior valida sua confiabilidade ética e sua visão de riscos.
+
+Além disso, estudando 1 hora por dia, você consegue evoluir de forma muito consistente nessa área focando em conceitos práticos de redes e segurança defensiva, construindo uma base sólida sem precisar passar anos aprendendo programação avançada do zero antes de conseguir os primeiros resultados.
+
+Cinco tópicos iniciais para estudar nessa área
+
+Fundamentos de Redes de Computadores: Entender como os computadores conversam entre si (o que é IP, portas de comunicação, protocolos como HTTP/HTTPS, DNS e como a internet funciona por baixo do pano).
+
+Sistemas Operacionais (foco em Linux): Aprender os comandos básicos do Linux pelo terminal, já que a maioria dos servidores e ferramentas de segurança rodam nele.
+
+Fundamentos de Segurança e Ameaças: Conhecer os tipos mais comuns de ataques (como phishing, malware e engenharia social) e as boas práticas de defesa (criptografia, autenticação e controle de acesso).
+
+Legislação e Governança (LGPD e ISO 27001): Entender o básico sobre proteção de dados e regras de segurança que as empresas são obrigadas a seguir por lei.
+
+Aplicações Práticas e Laboratórios: Usar plataformas gratuitas como o TryHackMe ou Hack The Box para treinar conceitos básicos de forma visual e interativa.
+//
