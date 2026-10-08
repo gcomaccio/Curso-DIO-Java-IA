@@ -5,7 +5,7 @@ Na prática
 Vamos começar a jornada conversando com um chatbot para descobrir uma área de tecnologia que combine com seu perfil.
 
 Use o prompt abaixo no ChatGPT (ou em qualquer outro chatbot da sua preferência):
-
+//
 Quero entrar na área de tecnologia, estou em transição de carreira e tenho 1h por dia para estudar.
 Meu background é em [sua área de origem, ex.: Psicologia].
 
@@ -16,4 +16,6 @@ Me ajude a decidir por onde começar. Responda assim:
 3. Cinco tópicos iniciais para estudar nessa área
 
 Use linguagem simples, como se fosse uma conversa com um amigo.
+//
+
 Ao final, copie a resposta para um bloco de notas. A área escolhida e os cinco tópicos iniciais vão ser o ponto de partida da próxima prática.
