@@ -1,0 +1,23 @@
+Ferramentas
+A escolha da ferramenta é menos importante que entender o conceito de cada nível. Abaixo estão as opções mais usadas hoje, agrupadas por tema. Escolha as que fizerem mais sentido pra você e experimente.
+
+Chatbots
+ChatGPT
+Claude
+Microsoft Copilot
+Gemini
+Copilotos
+Google Docs com Gemini
+Microsoft Word com Copilot
+Notion AI
+GitHub Copilot (para quem programa, dentro de uma IDE como o VSCode)
+Agentes
+Google Antigravity
+OpenCode
+OpenClaw
+Claude Code
+Cursor
+Ollama (para experimentar modelos locais junto com qualquer agente acima)
+Muitas dessas ferramentas podem atuar tanto como copiloto quanto como agente, dependendo de como você as usa. Essa fronteira está cada vez mais fluida, e perceber isso é parte do que você ganha ao terminar este curso.
+
+
