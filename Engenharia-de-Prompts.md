@@ -1,0 +1,1 @@
+Requisitos para um bom aprendizado de prompts: 1.Processamento de Linguagem Natural, interação entre máquinas e a Linguagem humana; 2.Modelos de Linguagem de Grande Escala, que são modelos treinados com grande volume de dados. Durante o aprendizado, algumas ferramentas serão utilizadas como: Chat GPT e o Microsoft Copilot
